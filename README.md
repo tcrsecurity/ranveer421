@@ -1,4 +1,1 @@
-I am Devendra singh
- and I am bug bpunty hunter 
-I learn every day 
-Find bugs in websites
+My name is Devendra Singh . I am web penetration tester and network penetraion tester . I learn everyday .
